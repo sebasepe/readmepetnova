@@ -226,6 +226,14 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 - El uso de metodologías ágiles, como reuniones de sprint y retrospectivas, ayudó a ajustar prioridades y mejorar continuamente el flujo de trabajo.
 
 - Finalmente, el enfoque en UI/UX permitió construir una plataforma intuitiva y atractiva para los usuarios finales.
+  
+- Progreso satisfactorio en la construcción de la Web Application: En el Sprint 2, el equipo logró iniciar el desarrollo de la Web Application de Pet Nova, implementando funcionalidades clave como el registro e inicio de sesión de usuarios, gestión de perfiles, registro de mascotas y notificaciones de citas. Esto permitió un avance significativo en la estructura de la aplicación, enfocándose en una interfaz intuitiva y la integración inicial con la base de datos MySQL.
+  
+- Mejoras en la planificación y seguimiento de tareas: Durante este sprint, se mantuvo la misma capacidad de trabajo de 8 Story Points que en el Sprint 1. La planificación y distribución de tareas se realizó de acuerdo con las habilidades de los miembros del equipo, lo que contribuyó a la eficiente asignación de responsabilidades y al progreso constante hacia el objetivo del sprint.
+  
+- Lecciones aprendidas sobre la documentación de commits: A partir de las retrospectivas del Sprint 1, se identificó la necesidad de mejorar la documentación de los commits. Este aspecto fue abordado en Sprint 2, ya que se tomaron medidas para que los mensajes de commit fueran más descriptivos y claros, lo que facilitó el seguimiento del progreso y la colaboración dentro del equipo.
+
+- Desarrollo colaborativo y herramientas utilizadas: El equipo utilizó herramientas como Visual Studio Code, Git y GitHub para asegurar una colaboración fluida y el control adecuado de versiones. Estas herramientas permitieron la integración de tareas individuales de manera efectiva, lo que resultó en una versión preliminar funcional de la Web Application de Pet Nova, demostrando la importancia de las plataformas de colaboración y control de código en proyectos ágiles.
 
 #### **Bibliografia**
 
@@ -235,6 +243,7 @@ Para el desarrollo de la Web Application en este sprint, se utilizaron herramien
 
 #### **Anexo**
 
-1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/Landing-Page-NovaPet/
-2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
-3. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27
+1. Despliegue del Landing Page: https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/
+2. Despliegue de la App Web: https://petnova-fronted-production.up.railway.app
+3. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/XjI2alaHmyFV0MPlaPpxzO/Web-design?node-id=401-8424&t=kuv2vsPlXaFzVYvk-0
+4. Video De Exposición TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a301_upc_edu_pe/Eqi44YEDeiVKgGPNfaTVK6MBWYenSQeOT--MkZtImi2TbQ?e=86Pe27
