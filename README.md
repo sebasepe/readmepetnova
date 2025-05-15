@@ -134,6 +134,75 @@ En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, imple
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+En la entrega del segundo sprint, se completó la implementación de la landing page funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión preliminar de la aplicación web. Link del Web Aplication: [WEB APLICATION](https://petnova-fronted-production.up.railway.app)
+
+**Capturas de pantalla landing page:**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/IRYz79z.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/zwxLecZ.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ZV9nhgF.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uo0xEiV.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/rDngf4T.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/RxzVkV7.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Ybk9Cdu.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/AFZbka2.png[/img]"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/FjZQiU9.png[/img]"  width="100%" />
+</div>
+
+**Capturas de pantalla Web Application:**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/JROcPpX.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xYaKBXy.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/bEdNRPA.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/3f8UYmL.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/37XcGPQ.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/HJzdYzD.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/8HhZZ52.png[/img]" width="100%" />
+</div>
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
