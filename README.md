@@ -100,6 +100,14 @@ En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, imple
 
 Para el desarrollo de la Web Application en este sprint, se utilizaron herramientas clave como Visual Studio Code para la escritura de código, Git para el control de versiones, y GitHub para la gestión de ramas y pull requests. Las funcionalidades de la Web App, como el registro e inicio de sesión, gestión de perfiles, registro de mascotas y notificaciones, se dividieron en tareas específicas asignadas a cada miembro del equipo según sus habilidades. Un integrante se encargó de integrar las contribuciones individuales, asegurando la cohesión del producto final.
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/jOq2ETh.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/N4wzfhc.png[/img]" width="100%" />
+</div>
+
 #### **Avance de Conclusiones**
 
 - La colaboración efectiva entre los miembros del equipo fue clave para avanzar de manera organizada y cubrir todas las etapas del proyecto. Cada integrante asumió con claridad su rol y responsabilidades, facilitando una ejecución ordenada.
