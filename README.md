@@ -91,6 +91,40 @@ En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Ap
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
+**US02**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/JROcPpX.png[/img]" width="100%" />
+</div>
+
+**US02**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xYaKBXy.png[/img]" width="100%" />
+</div>
+
+**US03**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/bEdNRPA.png[/img]" width="100%" />
+</div>
+
+**US03**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/3f8UYmL.png[/img]" width="100%" />
+</div>
+
+**US25**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/37XcGPQ.png[/img]" width="100%" />
+</div>
+
+**US04**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/HJzdYzD.png[/img]" width="100%" />
+</div>
+
+**US09**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/8HhZZ52.png[/img]" width="100%" />
+</div>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
