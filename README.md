@@ -88,6 +88,10 @@ En el segundo sprint, el equipo se enfocó en iniciar el desarrollo de la Web Ap
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+| Repositorio                                                                 | Rama     | Commit ID | Mensaje de Commit                        | Cuerpo del Mensaje                        | Fecha de Commit |
+|-----------------------------------------------------------------------------|----------|-----------|------------------------------------------|-------------------------------------------|-----------------|
+| https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Fronted | PetNova-LandingPage/main     | bb84e62   | ci: add RailWay Web Apps workflow file |                                           | 14/05/2025      |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 se inició el desarrollo de la Web Application de Pet Nova, implementando funcionalidades esenciales como el registro e inicio de sesión de usuarios, la gestión de perfiles, el registro de mascotas y las notificaciones de citas. Estas funcionalidades permiten a los usuarios (veterinarios y dueños de mascotas) interactuar con la plataforma de manera inicial, facilitando la autenticación y la gestión de datos básicos. A continuación, se muestran las evidencias.
